@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Juanfe
 
-### 🎓 Web Application Development Student at U-Tad
+### 🎓 Web Application Development Student at U-tad
 
 ---
 
@@ -11,6 +11,7 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 - 🔭 Currently working on academic and personal projects
 - 🌱 Constantly learning about web development and best practices
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -18,6 +19,7 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +36,14 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Introduction_Course-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -84,7 +93,6 @@ Want to collaborate on a project or just chat about technology?
 
 <div align="center">
   
-### ⚡ "Code is poetry" ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
