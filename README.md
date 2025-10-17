@@ -13,6 +13,7 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 
 
 ---
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +48,7 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 
 ---
 
+</div>
 
 ## 🌟 Featured Projects
 
