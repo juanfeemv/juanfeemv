@@ -47,35 +47,10 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 
 ---
 
-## 🎯 Areas of Interest
-
-```javascript
-const juanFelipe = {
-    education: "Web Application Development - U-tad",
-    interests: [
-        "Full Stack Web Development",
-        "Software Architecture",
-        "Database Design",
-        "RESTful APIs",
-        "E-commerce Development"
-    ],
-    currentFocus: "Improving my skills in React and Laravel",
-    funFact: "I love solving problems with code!"
-};
-```
-
----
 
 ## 🌟 Featured Projects
 
-<!-- You can add your projects here when you have them -->
-<!-- Example:
-### 📱 [Project Name](link)
-Brief description of the project and technologies used.
 
-### 🛒 [Project Name](link)
-Brief description of the project and technologies used.
--->
 
 *Coming soon...*
 
