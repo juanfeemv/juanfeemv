@@ -76,5 +76,5 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F260,100:0575E6&text=Let's%20Build%20Something%20Amazing&fontColor=fff&fontSize=30"/>
 </div>
