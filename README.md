@@ -1,20 +1,19 @@
-# 👋 Hi there! I'm Juan Felipe Mena
+# 👋 Hi there! I'm Juanfe
 
 ### 🎓 Web Application Development Student at U-tad
-### 💻 Full Stack Developer in Training
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate student pursuing a **Web Application Development (DAW)** degree at **U-tad**. I love creating innovative solutions and learning new technologies to build robust and efficient web applications.
+I'm a passionate student pursuing a **Web Application Development (DAWE)** degree at **U-tad**. I love creating innovative solutions and learning new technologies to build robust and efficient web applications.
 
 - 🔭 Currently working on academic and personal projects
 - 🌱 Constantly learning about web development and best practices
-- 💡 Interested in full stack development and modern architectures
-- 🎯 Goal: Become a versatile professional developer
+
 
 ---
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +37,6 @@ I'm a passionate student pursuing a **Web Application Development (DAW)** degree
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
@@ -49,35 +47,11 @@ I'm a passionate student pursuing a **Web Application Development (DAW)** degree
 
 ---
 
-## 🎯 Areas of Interest
-
-```javascript
-const juanFelipe = {
-    education: "Web Application Development - U-tad",
-    interests: [
-        "Full Stack Web Development",
-        "Software Architecture",
-        "Database Design",
-        "RESTful APIs",
-        "E-commerce Development"
-    ],
-    currentFocus: "Improving my skills in React and Laravel",
-    funFact: "I love solving problems with code!"
-};
-```
-
----
+</div>
 
 ## 🌟 Featured Projects
 
-<!-- You can add your projects here when you have them -->
-<!-- Example:
-### 📱 [Project Name](link)
-Brief description of the project and technologies used.
 
-### 🛒 [Project Name](link)
-Brief description of the project and technologies used.
--->
 
 *Coming soon...*
 
@@ -86,19 +60,17 @@ Brief description of the project and technologies used.
 ## 📫 Connect with Me
 
 Want to collaborate on a project or just chat about technology?
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://juanfeemv.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![CV](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menavegajuanfe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanfeemv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 ---
 
 <div align="center">
   
-### ⚡ "Code is poetry" ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=juanfeemv&color=blueviolet&style=for-the-badge)
 
 </div>
 
