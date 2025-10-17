@@ -1,18 +1,15 @@
-# 👋 Hi there! I'm Juan Felipe Mena
+# 👋 Hi there! I'm Juanfe
 
-### 🎓 Web Application Development Student at U-tad
-### 💻 Full Stack Developer in Training
+### 🎓 Web Application Development Student at U-Tad
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate student pursuing a **Web Application and E-commerce Development (DAWE)** degree at **U-tad**. I love creating innovative solutions and learning new technologies to build robust and efficient web applications.
+I'm a passionate student pursuing a **Web Application Development (DAWE)** degree at **U-tad**. I love creating innovative solutions and learning new technologies to build robust and efficient web applications.
 
 - 🔭 Currently working on academic and personal projects
 - 🌱 Constantly learning about web development and best practices
-- 💡 Interested in full stack development and modern architectures
-- 🎯 Goal: Become a versatile professional developer
 
 ---
 
@@ -45,7 +42,7 @@ I'm a passionate student pursuing a **Web Application and E-commerce Development
 
 ```javascript
 const juanFelipe = {
-    education: "DAWE - U-tad",
+    education: "Web Application Development - U-tad",
     interests: [
         "Full Stack Web Development",
         "Software Architecture",
