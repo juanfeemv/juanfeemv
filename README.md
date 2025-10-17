@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Juanfe
+# 👋 Hi, I'm Juanfe!
 
 ### 🎓 Web Application Development Student at U-tad
 
