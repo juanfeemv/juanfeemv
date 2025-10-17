@@ -59,7 +59,6 @@ I'm a passionate student pursuing a **Web Application Development (DAWE)** degre
 
 ## 📫 Connect with Me
 
-Want to collaborate on a project or just chat about technology?
 [![CV](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menavegajuanfe@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanfeemv)
