@@ -106,10 +106,6 @@ const juanfe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfeemv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfeemv&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 📫 Let's Connect!
