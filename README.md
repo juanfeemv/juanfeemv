@@ -87,9 +87,9 @@ const juanfe = {
 <td align="center" width="50%">
 
 ### ☁️ Cloud Foundations
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Completed-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-Certified-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**Azure Introduction Course**  
+**Azure Fundamentals (AZ-900)**  
 *Microsoft*
 
 </td>
