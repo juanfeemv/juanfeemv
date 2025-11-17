@@ -8,7 +8,7 @@
 ### 💻 Full-Stack Developer | Cloud Enthusiast | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&labelColor=000000)](https://juanfeemv.github.io/)
-[![Gmail](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=000000)](mailto:menavegajuanfe@gmail.com)
+[![Gmail](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=000000)](mailto:contacto.menavegajuanfe@gmail.com)
 
 </div>
 
@@ -20,8 +20,7 @@
 const juanfe = {
     location: "Madrid, Spain 🇪🇸",
     education: "Web Application Development @ U-tad",
-    currentFocus: ["Full-Stack Development", "Cloud Computing", "DevOps"],
-    interests: ["Building scalable applications", "Learning new technologies", "Open source"],
+    currentFocus: ["Full-Stack Development", "Cloud Computing"],
 };
 ```
 
@@ -46,6 +45,7 @@ const juanfe = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,7 +53,6 @@ const juanfe = {
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -63,6 +62,7 @@ const juanfe = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
@@ -136,7 +136,6 @@ const juanfe = {
 </div>
 
 <div align="center">
-  
-**⭐️ From [juanfeemv](https://github.com/juanfeemv) | Made with 💙 
+**⭐️ From [juanfeemv](https://github.com/juanfeemv) | Made with 💙
 
 </div>
