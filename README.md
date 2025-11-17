@@ -113,29 +113,12 @@ const juanfe = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-> 🚧 **Coming Soon** - Stay tuned for exciting projects!
-
-```javascript
-const projects = {
-    upcoming: ["Full-stack e-commerce platform", "Cloud-native microservices", "DevOps automation tools"],
-    status: "In development... 🔨"
-};
-```
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-juanfeemv.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://juanfeemv.github.io/)
-[![Email](https://img.shields.io/badge/Gmail-menavegajuanfe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:menavegajuanfe@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-contacto.menavegajuanfe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:menavegajuanfe@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@juanfeemv-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/juanfeemv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Felipe_Mena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/juan-felipe-mena-717362395/)
 
@@ -155,6 +138,6 @@ const projects = {
 
 <div align="center">
   
-**⭐️ From [juanfeemv](https://github.com/juanfeemv) | Made with 💙 and lots of ☕**
+**⭐️ From [juanfeemv](https://github.com/juanfeemv) | Made with 💙 
 
 </div>
