@@ -13,6 +13,10 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-En%20busca%20de%20prácticas%20%2F%20primer%20empleo-blue?style=for-the-badge" alt="Buscando oportunidades"/>
+</p>
+---
 
 ## 🚀 About Me
 
