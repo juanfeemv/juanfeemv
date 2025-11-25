@@ -7,7 +7,7 @@
 ### 🎓 Web Application Development Student at U-tad
 ### 💻 Full-Stack Developer | Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&labelColor=000000)](https://juanfeemv.github.io/)
+[![CV](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&labelColor=000000)](https://juanfeemv.github.io/)
 [![Gmail](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&labelColor=000000)](mailto:contacto.menavegajuanfe@gmail.com)
 
 </div>
@@ -122,8 +122,6 @@ const juanfe = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Felipe_Mena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/juan-felipe-mena-717362395/)
 
 ---
-
-### 💬 Open to collaborations and interesting projects!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juanfeemv&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
