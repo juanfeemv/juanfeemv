@@ -13,21 +13,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-En%20busca%20de%20prácticas-blue?style=for-the-badge" alt="Buscando oportunidades"/>
-</p>
-
-
-## 🚀 About Me
-
-```typescript
-const juanfe = {
-    location: "Madrid, Spain 🇪🇸",
-    education: "Web Application Development @ U-tad",
-    currentFocus: ["Full-Stack Development", "Cloud Computing"],
-};
-```
-
 <div align="center">
 
 ## 🛠️ Tech Stack
