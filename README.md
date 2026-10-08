@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🎓 Web Application Development Student at U-tad
+### 🎓 Big Data & AI Student @ U-tad | DevOps Student @ UNIR
 ### 💻 Full-Stack Developer | Problem Solver
 
 [![CV](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&labelColor=000000)](https://juanfeemv.github.io/)
@@ -64,15 +64,6 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-### ☁️ Cloud Computing
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Cloud Computing Foundations**  
-*Google Cloud*
-
-</td>
 <td align="center" width="50%">
 
 ### ☁️ Cloud Foundations
